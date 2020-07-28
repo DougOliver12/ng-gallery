@@ -9,7 +9,7 @@ export class NavbarComponent implements OnInit {
   title = 'Galeria';
 
   filterBoats(){
-    console.log("Barcos!")
+    console.log("Boats!")
   }
 
   constructor() { }

@@ -7,5 +7,5 @@ import { ImageService } from './image/shared/image.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Photo Gallery';
+  title = 'Galeria de fotos';
 }
